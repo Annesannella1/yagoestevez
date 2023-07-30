@@ -230,7 +230,7 @@ const Projects = props => {
     React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
     React.createElement(Project, {
       title: "Let it Go",
-      img: '',
+      img: 'colourchanger.gif',
       tech: "js css html",
       link: "https://annesannella1-colourchanger.glitch.me/",
       repo: "https://github.com/annesannella1/colourchanger" }, /*#__PURE__*/
