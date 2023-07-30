@@ -1,4 +1,4 @@
-function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // Made by Yago Estévez (Twitter: @yagoestevez.com)
+function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // Made by Anne Sannella (Twitter: @annezannella.com)
 
 
 /***********************
@@ -252,7 +252,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using JS + HTML and CSS."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom."}))))));
+    React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom."))))));
 
 
 };
