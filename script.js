@@ -217,11 +217,10 @@ const Projects = props => {
     React.createElement("div", { className: "heading" }, /*#__PURE__*/
     React.createElement("h3", { className: "title" }, "My Works"), /*#__PURE__*/
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
-    React.createElement("p", { className: "subtitle" }, "Here's a list of ", /*#__PURE__*/
-    React.createElement("u", null, "most"), " of the projects I've been working on lately. All of these were built during my coding camp adventure on",
+    React.createElement("p", { className: "subtitle" }, "Here's a short list of ", /*#__PURE__*/
+    React.createElement("u", null, "most"), " the projects I've been working on lately.",
     ' ', /*#__PURE__*/
-    React.createElement("a", { href: "https://www.freecodecamp.org/", target: "_blank", rel: "noopener noreferrer" }, "freeCodeCamp"), ", where I've been coding for almost 7 months non-stop until I completed all the projects required to get my Full-Stack Developer certification.")), /*#__PURE__*/
-
+ /*   React.createElement("a", { href: "https://www.freecodecamp.org/", target: "_blank", rel: "noopener noreferrer" }, "freeCodeCamp"), ", where I've been coding for almost 7 months non-stop until I completed all the projects required to get my Full-Stack Developer certification.")), /*#__PURE__*/ */
 
 
 
@@ -244,7 +243,7 @@ const Projects = props => {
 
     React.createElement(Project, {
       title: "Pearls of Wisdom.",
-      img: 'CautiosMemory.gif',
+      img: 'CautiousMemory.gif',
       tech: "js html css",
       link: "https://annesannella1-cautious-memory.glitch.me/",
       repo: "https://github.com/annesannella1/cautious-memory" }, /*#__PURE__*/
@@ -276,9 +275,9 @@ const Contact = props => {
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
     React.createElement("p", { className: "subtitle" }, "Please, use the form below or send an email to ",
     '', /*#__PURE__*/
-    React.createElement("span", { className: "mail" }, "web", /*#__PURE__*/
+    React.createElement("span", { className: "mail" }, "my email", /*#__PURE__*/
 
-    React.createElement("i", { className: "fas fa-at at" }), "annesannella@yahoo.com", /*#__PURE__*/
+    React.createElement("i", { className: "fas fa-at at" }), "annesannella@yahoo", /*#__PURE__*/
 
     React.createElement("i", { className: "fas fa-circle dot" }), "com"), ":")), /*#__PURE__*/
 
