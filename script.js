@@ -48,9 +48,9 @@ const Nav = props => {
     React.createElement(React.Fragment, null, /*#__PURE__*/
     React.createElement("nav", { id: "navbar" }, /*#__PURE__*/
     React.createElement("div", { className: "nav-wrapper" }, /*#__PURE__*/
-    React.createElement("p", { className: "brand" }, "yago", /*#__PURE__*/
+    React.createElement("p", { className: "brand" }, "anne", /*#__PURE__*/
 
-    React.createElement("strong", null, "est\xE9vez")), /*#__PURE__*/
+    React.createElement("strong", null, "sannella")), /*#__PURE__*/
 
     React.createElement("a", {
       onClick: props.toggleMenu,
@@ -106,7 +106,7 @@ const About = props => {
     React.createElement("div", { className: "wrapper" }, /*#__PURE__*/
     React.createElement("article", null, /*#__PURE__*/
     React.createElement("div", { className: "title" }, /*#__PURE__*/
-    React.createElement("h3", null, "Who's this guy?"), /*#__PURE__*/
+    React.createElement("h3", null, "Who's this girl?"), /*#__PURE__*/
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
@@ -123,7 +123,7 @@ const About = props => {
 
 
     React.createElement("div", { className: "title" }, /*#__PURE__*/
-    React.createElement("h3", null, "What does he do?"), /*#__PURE__*/
+    React.createElement("h3", null, "What does she do?"), /*#__PURE__*/
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
@@ -220,7 +220,7 @@ const Projects = props => {
     React.createElement("p", { className: "subtitle" }, "Here's a short list of ", /*#__PURE__*/
     React.createElement("u", null, "most"), " the projects I've been working on lately.",
     ' ', /*#__PURE__*/
-   React.createElement("a", { href: "", target: "_blank", rel: "noopener noreferrer" }, " "), " ")), /*#__PURE__*/ */
+   React.createElement("a", { href: "https://github.com/annesannella1", target: "_blank", rel: "noopener noreferrer" }, "My other Github projects."), " Feel free to browse.")), /*#__PURE__*/ */
 
 
 
