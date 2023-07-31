@@ -229,7 +229,7 @@ const Projects = props => {
       title: "Let it Go",
       img: 'colourchanger.gif',
       tech: "js css html",
-      link: "https://annesannella1-colourchanger.glitch.me/",
+      link: "https://github.com/annesannella1/colourchanger",
       repo: "https://github.com/annesannella1/colourchanger" }, /*#__PURE__*/
     React.createElement("small", null, "Built using HTML, CSS + Javascript."), /*#__PURE__*/
 
