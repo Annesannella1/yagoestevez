@@ -218,7 +218,7 @@ const Projects = props => {
     React.createElement("h3", { className: "title" }, "My Works"), /*#__PURE__*/
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
     React.createElement("p", { className: "subtitle" }, "Here's a short list of ", /*#__PURE__*/
-    React.createElement("p", { classname: "subtitle" }, " the projects I've been working on lately.")), /*#__PURE__*/ */
+    React.createElement("p", { classname: "subtitle" }, " the projects I've been working on lately.")), /*#__PURE__*/ 
 
 
 
