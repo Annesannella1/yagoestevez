@@ -110,7 +110,7 @@ const About = props => {
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "My name is Yago."), /*#__PURE__*/
+    React.createElement("h4", { className: "subtitle" }, "My name is Anne."), /*#__PURE__*/
     React.createElement("p", null, "I am a web developer and UX designer based in the beautiful Nashville, Tennessee."), /*#__PURE__*/
 
 
@@ -275,7 +275,7 @@ const Contact = props => {
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
     React.createElement("p", { className: "subtitle" }, "Please, use the form below or send an email to ",
     '', /*#__PURE__*/
-    React.createElement("span", { className: "mail" }, "my email", /*#__PURE__*/
+    React.createElement("span", { className: "mail" }, "email", /*#__PURE__*/
 
     React.createElement("i", { className: "fas fa-at at" }), "annesannella@yahoo", /*#__PURE__*/
 
