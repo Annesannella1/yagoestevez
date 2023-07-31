@@ -220,7 +220,7 @@ const Projects = props => {
     React.createElement("p", { className: "subtitle" }, "Here's a short list of ", /*#__PURE__*/
     React.createElement("u", null, "most"), " the projects I've been working on lately.",
     ' ', /*#__PURE__*/
-   React.createElement("a", { href: "https://github.com/annesannella1", target: "_blank", rel: "noopener noreferrer" }, "My other Github projects."), " Feel free to browse.")), /*#__PURE__*/ */
+   React.createElement("a", { href: "https://github.com/annesannella1/", target: "_blank", rel: "noopener noreferrer" }, "My other Github projects."), " Feel free to browse.")), /*#__PURE__*/ */
 
 
 
