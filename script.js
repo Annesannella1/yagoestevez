@@ -1,4 +1,4 @@
-function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // Made by Anne Sannella (Twitter: @yagoestevez.com)
+function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // Made by Yago Estevez (Twitter: @yagoestevez.com)
 
 
 /***********************
@@ -115,7 +115,7 @@ const About = props => {
 
 
 
-    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love gardeming, a hobby I'm taking along since my teens!")), /*#__PURE__*/
+    React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love gardening, a hobby I'm taking along since my teens!")), /*#__PURE__*/
 
 
 
@@ -128,7 +128,7 @@ const About = props => {
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "I'm a programmer."), /*#__PURE__*/
-    React.createElement("p", null, "For the front-end I usually work with Javascript, CSS and HTML. I am learning REACTJS as we speak."), /*#__PURE__*/
+    React.createElement("p", null, "For the front-end I usually work with Javascript, CSS and HTML. I am learning ReactJS as we speak."), /*#__PURE__*/
 
 
 
@@ -146,7 +146,7 @@ const About = props => {
 
 
 
-    React.createElement("p", null, "User interfaces, brochures, books, branding... You name it! As I mentioned, creating pretty things for the web is my passion!"))))));
+    React.createElement("p", null, "User interfaces, brochures, books, branding... You name it! As I mentioned, creating pretty things is my passion!"))))));
 
 
 
@@ -218,9 +218,7 @@ const Projects = props => {
     React.createElement("h3", { className: "title" }, "My Works"), /*#__PURE__*/
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
     React.createElement("p", { className: "subtitle" }, "Here's a short list of ", /*#__PURE__*/
-    React.createElement("u", null, "most"), " the projects I've been working on lately.",
-    ' ', /*#__PURE__*/
-   React.createElement("a", { href: "https://github.com/annesannella1/", target: "_blank", rel: "noopener noreferrer" }, "My other Github projects."), " Feel free to browse.")), /*#__PURE__*/ */
+    React.createElement("p", { classname: "subtitle" }, " the projects I've been working on lately.")), /*#__PURE__*/ */
 
 
 
