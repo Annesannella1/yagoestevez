@@ -229,7 +229,7 @@ const Projects = props => {
       title: "Let it Go",
       img: 'colourchanger.gif',
       tech: "js css html",
-      link: "https://github.com/annesannella1/colourchanger",
+      link: "https://annesannella1.github.io/colourchanger/",
       repo: "https://github.com/annesannella1/colourchanger" }, /*#__PURE__*/
     React.createElement("small", null, "Built using HTML, CSS + Javascript."), /*#__PURE__*/
 
@@ -243,7 +243,7 @@ const Projects = props => {
       title: "Pearls of Wisdom.",
       img: 'CautiousMemory.gif',
       tech: "js html css",
-      link: "https://annesannella1-cautious-memory.glitch.me/",
+      link: "https://annesannella1.github.io/cautious-memory/",
       repo: "https://github.com/annesannella1/cautious-memory" }, /*#__PURE__*/
 
     React.createElement("small", null, "Built using JS + HTML and CSS."), /*#__PURE__*/
