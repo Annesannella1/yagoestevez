@@ -243,13 +243,27 @@ const Projects = props => {
       title: "Pearls of Wisdom.",
       img: 'CautiousMemory.gif',
       tech: "js html css",
-      link: "https://annesannella1.github.io/cautious-memory/",
+      link: ""https://annesannella1.github.io/cautious-memory/",
       repo: "https://annesannella1.github.io/cautious-memory/" }, /*#__PURE__*/
+      
 
-    React.createElement("small", null, "Built using JS + HTML and CSS."), /*#__PURE__*/
+    React.createElement("small", null, "Built using HTML, CSS and Jacascript, of course."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")))))));
+    React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")), /*__PURE__*/
+
+ React.createElement(Project, {
+      title: "Adobe Graphics Portfolio",
+      img: 'CautiousMemory.gif',
+      tech: "Adobe Illustrator, Adobe Photoshop",
+      link: "https://www.krop.com/annesannella/#/",
+      repo: "https://www.krop.com/annesannella/#/" }, /*#__PURE__*/
+      
+
+    React.createElement("small", null, "Built using Adobe Photoshop and Illustrator."), /*#__PURE__*/
+
+
+    React.createElement("p", null, "Another single page site that show my graphics design work.")))))));
 
 
 };
