@@ -254,8 +254,8 @@ const Projects = props => {
 
  React.createElement(Project, {
       title: "Adobe Graphics Portfolio",
-      img: 'Screen Shot 2023-09-25 at 2.38.20 PM.png',
-      tech: "Adobe Illustrator, Adobe Photoshop",
+      img: 'GraphicsKrop.png',
+      tech: "Illustrator Photoshop",
       link: "https://www.krop.com/annesannella/#/",
       repo: "https://www.krop.com/annesannella/#/" }, /*#__PURE__*/
       
