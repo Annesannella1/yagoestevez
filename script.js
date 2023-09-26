@@ -243,7 +243,7 @@ const Projects = props => {
       title: "Pearls of Wisdom.",
       img: 'CautiousMemory.gif',
       tech: "js html css",
-      link: ""https://annesannella1.github.io/cautious-memory/",
+      link: "https://annesannella1.github.io/cautious-memory/",
       repo: "https://annesannella1.github.io/cautious-memory/" }, /*#__PURE__*/
       
 
@@ -255,7 +255,7 @@ const Projects = props => {
  React.createElement(Project, {
       title: "Adobe Graphics Portfolio",
       img: 'GraphicsKrop.png',
-  /*    tech: "Illustrator Photoshop",*/
+      tech: "js html css",
       link: "https://www.krop.com/annesannella/#/",
       repo: "https://www.krop.com/annesannella/#/" }, /*#__PURE__*/
       
@@ -263,7 +263,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using Adobe Photoshop and Illustrator."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Another single page site that show my graphics design work.")))))));
+    React.createElement("p", null, "Another single page site that show my graphics design work."))))))));
 
 
 };
