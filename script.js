@@ -254,7 +254,7 @@ const Projects = props => {
 
   React.createElement(Project, {
       title: "MADLIB Fun.",
-      img: 'madlib.png',
+      img: 'madlib.gif',
       tech: "js html css",
       link: "https://annesannella1.github.io/miniature-engine/",
       repo: "https://annesannella1.github.io/miniature-engine/" }, /*#__PURE__*/
