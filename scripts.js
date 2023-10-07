@@ -252,6 +252,19 @@ const Projects = props => {
 
     React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")), /*__PURE__*/
 
+  React.createElement(Project, {
+      title: "MADLIB Fun.",
+      img: 'madlib.png',
+      tech: "js html css",
+      link: "https://annesannella1.github.io/miniature-engine/",
+      repo: "https://annesannella1.github.io/miniature-engine/" }, /*#__PURE__*/
+      
+
+    React.createElement("small", null, "Built using HTML, CSS and Jacascript, of course.")), /*#__PURE__*/
+
+
+    React.createElement("p", null, "Another single page site that was my first portfolio.  It shows the power of javascript in the third project, a madlib game.")), /*__PURE__*/
+
  React.createElement(Project, {
       title: "Adobe Graphics Portfolio",
       img: 'GraphicsKrop.png',
