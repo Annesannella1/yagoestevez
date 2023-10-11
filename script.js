@@ -247,7 +247,7 @@ const Projects = props => {
       repo: "https://annesannella1.github.io/cautious-memory/" }, /*#__PURE__*/
       
 
-    React.createElement("small", null, "Built using HTML, CSS and Jacascript, of course."), /*#__PURE__*/
+    React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
     React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")), /*__PURE__*/
@@ -260,7 +260,7 @@ const Projects = props => {
       repo: "https://annesannella1.github.io/miniature-engine/" }, /*#__PURE__*/
       
 
-    React.createElement("small", null, "Built using HTML, CSS and Jacascript, of course."), /*#__PURE__*/
+    React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
     React.createElement("p", null, "Another single page site that was my first portfolio.  It shows the power of javascript in the third project, a madlib game.")), /*__PURE__*/
