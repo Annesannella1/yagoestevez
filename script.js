@@ -290,7 +290,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using Adobe Photoshop and Illustrator."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Another single page site that show my graphics design work."))))))));
+    React.createElement("p", null, "Another single page site that show my graphics design work.")))))));
 
 
 };
