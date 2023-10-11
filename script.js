@@ -265,6 +265,20 @@ const Projects = props => {
 
     React.createElement("p", null, "Another single page site that was my first portfolio.  It shows the power of javascript in the third project, a madlib game.")), /*__PURE__*/
 
+    React.createElement(Project, {
+      title: "Techdegree Porfolio.",
+      img: 'techdegreeunit1snapshot.gif',
+      tech: "js html css",
+      link: "https://annesannella1.github.io/techdegree-unit1/",
+      repo: "https://annesannella1.github.io/techdegree-unit1/" }, /*#__PURE__*/
+      
+
+    React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
+
+
+    React.createElement("p", null, "Yet another single page site that was a portfolio design that was from Techdegree.  It shows general Javascript with HTML and CSS.")), /*__PURE__*/
+
+
  React.createElement(Project, {
       title: "Adobe Graphics Portfolio",
       img: 'GraphicsKrop.png',
@@ -276,7 +290,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using Adobe Photoshop and Illustrator."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Another single page site that show my graphics design work.")))))));
+    React.createElement("p", null, "Another single page site that show my graphics design work."))))))));
 
 
 };
