@@ -996,10 +996,10 @@ a:active {
 }
 
 .project-image {
-  heigth: 145px;
-  width: 145px;
-  filter: saturate(0);
-  transition: all 300ms;
+  heigth: 600px;
+  width: 600px;
+ /* filter: saturate(0);
+  transition: all 300ms; */
 }
 
 /* Project Details */
