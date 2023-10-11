@@ -958,7 +958,8 @@ a:active {
 /* Single Project */
 #projects .project {
   margin: 1rem auto;
-  width: 70%;
+  width: 100%;
+  color: #f300b4;
   padding: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -970,7 +971,7 @@ a:active {
 #projects .project .project-link {
   display: block;
   margin: auto 0;
-  color: #252934;
+  color: #f300b4;
   overflow: hidden;
   text-align: center;
   border-radius: 50%;
