@@ -252,7 +252,8 @@ const Projects = props => {
 
     React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")), /*__PURE__*/
 
-  React.createElement(Project, {
+ 
+    React.createElement(Project, {
       title: "MADLIB Fun.",
       img: 'madlib.gif',
       tech: "js html css",
@@ -277,6 +278,20 @@ const Projects = props => {
 
 
     React.createElement("p", null, "Yet another single page site that was a portfolio design that was from Techdegree.  It shows general Javascript with HTML and CSS.")), /*__PURE__*/
+
+
+     React.createElement(Project, {
+      title: "Hair Factory Demo.",
+      img: 'hairfactory.png',
+      tech: "html css",
+      link: "https://annesannella1.github.io/creativeportfolio2023/",
+      repo: "https://annesannella1.github.io/creativeportfolio2023/" }, /*#__PURE__*/
+      
+
+    React.createElement("small", null, "Built using HTML and CSS, of course."), /*#__PURE__*/
+
+
+    React.createElement("p", null, "Yet another single page site that could be used by a businesss with a simple gallery of work.  It features simple typography and design using HTML and CSS.")), /*__PURE__*/
 
 
  React.createElement(Project, {
