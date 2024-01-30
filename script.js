@@ -263,7 +263,7 @@ const Projects = props => {
   React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-  React.createElement("p", null, "Another single page site that show another creative coding project.  It shows the power of javascript and the html canvas element to genarate art.")), /*__PURE__*/ 
+  React.createElement("p", null, "Another single page site that shows another creative coding project.  It shows the power of javascript and the html canvas element to generate art.")), /*__PURE__*/ 
 
     React.createElement(Project, {
       title: "Techdegree Porfolio.",
