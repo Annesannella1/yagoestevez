@@ -252,19 +252,18 @@ const Projects = props => {
 
     React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")), /*__PURE__*/
 
- 
-/*    React.createElement(Project, {
-      title: "MADLIB Fun.",
-      img: 'madlib.gif',
+   React.createElement(Project, {
+      title: "Who am I?",
+      img: 'whoami.jpg',
       tech: "js html css",
-      link: "https://annesannella1.github.io/miniature-engine/",
-      repo: "https://annesannella1.github.io/miniature-engine/" }, /*#__PURE__*/
+      link: "https://annesannella1.github.io/udemycreativecoding2/",
+      repo: "https://annesannella1.github.io/udemycreativecoding2/" }, /*#__PURE__*/
       
 
- /*   React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
+  React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-  /*  React.createElement("p", null, "Another single page site that was my first portfolio.  It shows the power of javascript in the third project, a madlib game.")), /*__PURE__*/ 
+  React.createElement("p", null, "Another single page site that show another creative coding project.  It shows the power of javascript and the html canvas element to genarate art.")), /*__PURE__*/ 
 
     React.createElement(Project, {
       title: "Techdegree Porfolio.",
