@@ -256,8 +256,8 @@ const Projects = props => {
       title: "Who am I?",
       img: 'whoami.jpg',
       tech: "js html css",
-      link: "https://annesannella1.github.io/udemycreativecodingface/",
-      repo: "https://annesannella1.github.io/udemycreativecodingface/" }, /*#__PURE__*/
+      link: "https://annesannella1.github.io/face/",
+      repo: "https://annesannella1.github.io/face/" }, /*#__PURE__*/
       
 
   React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
