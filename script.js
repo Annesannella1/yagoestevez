@@ -266,7 +266,7 @@ const Projects = props => {
   React.createElement("p", null, "Another single page site that shows another creative coding project.  It shows the power of javascript and the html canvas element to generate art.")), /*__PURE__*/ 
  React.createElement(Project, {
       title: "Rainbow Lightning Effect?",
-      img: 'pinkrainbowlightningeffect.gif',
+      img: 'pinklightningeffect.gif',
       tech: "js html css",
       link: "https://annesannella1.github.io/rainbowlightningeffect/",
       repo: "https://annesannella1.github.io/rainbowlightningeffect/" }, /*#__PURE__*/
