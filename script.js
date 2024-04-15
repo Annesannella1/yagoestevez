@@ -146,7 +146,7 @@ const About = props => {
 
 
 
-    React.createElement("p", null, "User interfaces, brochures, books, branding... You name it! As I mentioned, creating pretty things is my passion!"))))));
+    React.createElement("p", null, "Creating pretty User interfaces is my passion!"))))));
 
 
 
@@ -263,7 +263,7 @@ const Projects = props => {
   React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-  React.createElement("p", null, "Another single page site that shows another creative coding project.  It shows the power of javascript and the html canvas element to generate art.")), /*__PURE__*/ 
+  React.createElement("p", null, "A single page site using Javascript and the html canvas element to generate art.")), /*__PURE__*/ 
  React.createElement(Project, {
       title: "Rainbow Lightning Effect?",
       img: 'pinklightningeffect.gif',
@@ -275,7 +275,7 @@ const Projects = props => {
   React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-  React.createElement("p", null, "Another single page site that shows another creative coding project.  It shows the power of javascript and the html canvas element to generate art.")), /*__PURE__*/ 
+  React.createElement("p", null, "Another single page site that shows the power of Javascript and the HTML canvas element to generate art.")), /*__PURE__*/ 
 
     React.createElement(Project, {
       title: "Techdegree Porfolio.",
@@ -288,7 +288,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Yet another single page site that was a portfolio design that was from Techdegree.  It shows general Javascript with HTML and CSS.")), /*__PURE__*/
+    React.createElement("p", null, "A single page site that shows a simple portfolio.  It shows the use of Javascript with HTML and CSS.")), /*__PURE__*/
 
 
     React.createElement(Project, {
@@ -302,7 +302,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using HTML and CSS, of course."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Yet another single page site that could be used by a businesss with a simple gallery of work.  It features simple typography and design using HTML and CSS.")), /*__PURE__*/
+    React.createElement("p", null, "A single page site that could be used by a businesss with a simple gallery of work.  It features simple typography and design using HTML and CSS.")), /*__PURE__*/
 
 
  React.createElement(Project, {
@@ -316,7 +316,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using Adobe Photoshop and Illustrator."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "Another single page site that show my graphics design work.")))))));
+    React.createElement("p", null, "A single page site that show my graphics design work.")))))));
 
 
 };
