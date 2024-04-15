@@ -128,12 +128,12 @@ const About = props => {
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "I'm a programmer."), /*#__PURE__*/
-    React.createElement("p", null, "For the front-end I usually work with Javascript, CSS and HTML. I am learning ReactJS as we speak."), /*#__PURE__*/
+    React.createElement("p", null, "For the front-end I usually work with Javascript, CSS, HTML and ReactJS."), /*#__PURE__*/
 
 
 
 
-    React.createElement("p", null, "For the back-end I also work with Javascript (NodeJS and PostgreSQL, etc). But, of course, whenever the project requires PHP, I do PHP as well as Wordpress and Laravel, etc).")), /*#__PURE__*/
+    React.createElement("p", null, "For the back-end I also work with Javascript (NodeJS and PostgreSQL, etc). But, of course, whenever the project requires PHP, I do PHP as well as Wordpress.")), /*#__PURE__*/
 
 
 
@@ -146,7 +146,7 @@ const About = props => {
 
 
 
-    React.createElement("p", null, "Creating pretty User interfaces is my passion!"))))));
+    React.createElement("p", null, "Creating pretty, functional, and responsive user interfaces is my passion!"))))));
 
 
 
@@ -275,7 +275,7 @@ const Projects = props => {
   React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-  React.createElement("p", null, "Another single page site that shows the power of Javascript and the HTML canvas element to generate art.")), /*__PURE__*/ 
+  React.createElement("p", null, "Another single page site that shows the power of Javascript and the HTML canvas element to generate a rainbow ligtning effect using trigonometry within the code.")), /*__PURE__*/ 
 
     React.createElement(Project, {
       title: "Techdegree Porfolio.",
@@ -288,7 +288,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "A single page site that shows a simple portfolio.  It shows the use of Javascript with HTML and CSS.")), /*__PURE__*/
+    React.createElement("p", null, "A single page site that shows a simple portfolio using Javascript with HTML and CSS.")), /*__PURE__*/
 
 
     React.createElement(Project, {
@@ -302,7 +302,7 @@ const Projects = props => {
     React.createElement("small", null, "Built using HTML and CSS, of course."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "A single page site that could be used by a businesss with a simple gallery of work.  It features simple typography and design using HTML and CSS.")), /*__PURE__*/
+    React.createElement("p", null, "A single page site that could be used by a business with a simple gallery of work.  It features simple typography and design using HTML and CSS.")), /*__PURE__*/
 
 
  React.createElement(Project, {
