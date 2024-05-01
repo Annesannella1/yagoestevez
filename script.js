@@ -306,16 +306,16 @@ const Projects = props => {
 
       React.createElement(Project, {
       title: "Grocery Gal.",
-      img: '',
+      img: 'Grocerygal.jpeg',
       tech: "html css",
-      link: "https://annesannella1.github.io/creativeportfolio2023/",
-      repo: "https://annesannella1.github.io/creativeportfolio2023/" }, /*#__PURE__*/
+      link: "https://annesannella1.github.io/GroceryGal/",
+      repo: "https://annesannella1.github.io/GroceryGal/" }, /*#__PURE__*/
       
 
-    React.createElement("small", null, "Built using HTML and CSS, of course."), /*#__PURE__*/
+    React.createElement("small", null, "Built using HTML and CSS, and Javascript, of course."), /*#__PURE__*/
 
 
-    React.createElement("p", null, "A single page site that could be used by a business with a simple gallery of work.  It features simple typography and design using HTML and CSS.")), /*__PURE__*/
+    React.createElement("p", null, "A single page site that I marketed to my email list to promote my grocery delivery service.  It features simple typography and design using HTML, CSS, and Javascript.")), /*__PURE__*/
 
 
 
