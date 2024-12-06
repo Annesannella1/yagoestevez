@@ -254,7 +254,7 @@ const Projects = props => {
 
    React.createElement(Project, {
       title: "Kaleidoscope",
-      img: 'Screenshot_20241019_124103_Chrome.jpg',
+      img: 'kaleidoscope.gif',
       tech: "html css",
       link: "https://annesannella1.github.io/kaleidoscope-/",
       repo: "https://annesannella1.github.io/kaleidoscope-/" }, /*#__PURE__*/
