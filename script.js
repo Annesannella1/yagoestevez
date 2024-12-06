@@ -253,14 +253,14 @@ const Projects = props => {
     React.createElement("p", null, "Another single page site that shows Scrollmagic.js integration while providing Pearls of Wisdom.")), /*__PURE__*/
 
    React.createElement(Project, {
-      title: "Who am I?",
-      img: 'whoami.jpg',
-      tech: "js html css",
-      link: "https://annesannella1.github.io/face/",
-      repo: "https://annesannella1.github.io/face/" }, /*#__PURE__*/
+      title: "Kaliedoscope",
+      img: 'Screenshot_20241019_124103_Chrome.jpg,
+      tech: "html css",
+      link: "https://annesannella1.github.io/kaleidoscope/",
+      repo: "https://annesannella1.github.io/kaleidoscope/" }, /*#__PURE__*/
       
 
-  React.createElement("small", null, "Built using HTML, CSS and Javascript, of course."), /*#__PURE__*/
+  React.createElement("small", null, "Built using only HTML and CSS."), /*#__PURE__*/
 
 
   React.createElement("p", null, "A single page site using Javascript and the html canvas element to generate art.")), /*__PURE__*/ 
